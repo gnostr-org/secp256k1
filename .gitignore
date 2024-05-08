@@ -18,7 +18,8 @@ schnorr_example
 *.trs
 *.sage.py
 
-Makefile
+# includes CMakefiles
+*Makefile*
 configure
 .libs/
 Makefile.in
