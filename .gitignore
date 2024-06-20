@@ -1,3 +1,13 @@
+CMakeFiles/
+CTestTestfile.cmake
+DartConfiguration.tcl
+cmake_install.cmake
+src/CMakeFiles/
+src/CTestTestfile.cmake
+src/cmake_install.cmake
+src/libsecp256k1.2.dylib
+src/libsecp256k1.dylib
+
 bench
 bench_ecmult
 bench_internal
